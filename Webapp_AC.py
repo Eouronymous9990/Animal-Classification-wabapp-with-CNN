@@ -181,7 +181,7 @@ from PIL import Image
 #import numpy as np
 #import os
 #os.chdir(r"D:\Data YOLOv8")
-set_background("BG")
+set_background("BG.jpg")
 
 # set title
 st.title('Animals classification')
